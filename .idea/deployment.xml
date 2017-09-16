@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" autoUploadExternalChanges="true" showNewOnTargetInSync="false">
+  <component name="PublishConfigData" autoUpload="Always" uploadOnCheckin="08d165db-988f-4684-9be2-4d5263ea3965" autoUploadExternalChanges="true" showNewOnTargetInSync="false">
     <serverData>
       <paths name="Kali">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Kali" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
