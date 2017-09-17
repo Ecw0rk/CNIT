@@ -30,7 +30,7 @@ for user in users:
         html = s.recv(1024)
         soup = bs4.BeautifulSoup(html, 'html5lib')
         if soup.select('h1')[0].getText() != 'Credentials rejected!':
-            print soup.select('body')[0]
+            print soup.body
             # print soup.select('h1')[0].getText()
             # print html
         s.close()
